@@ -1,0 +1,48 @@
+*   [33mcommit 254580674d17ed647b58c92d48f28875d736cc84[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: d8f14f6 3e0d4ba
+[31m|[m [32m|[m Author: Alexandre Voltan <voltanalee@gmail.com>
+[31m|[m [32m|[m Date:   Wed Dec 11 20:36:29 2019 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'titulo'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 3e0d4baf59b703383fbf2504e81c4a8b0b1fabe2[m[33m ([m[1;32mtitulo[m[33m)[m
+[31m|[m [32m|[m Author: Alexandre Voltan <voltanalee@gmail.com>
+[31m|[m [32m|[m Date:   Wed Dec 11 20:23:43 2019 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Lista no inicio do titulo
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 9ee883c295c66e51c1c1a3a7a5c2d3929c742f40[m
+[31m|[m [32m|[m Author: Alexandre Voltan <voltanalee@gmail.com>
+[31m|[m [32m|[m Date:   Wed Dec 11 20:22:41 2019 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Alterando titulo da página
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit d8f14f6db4e32ffa2e94aacfb716b67bbf76981b[m
+[32m|[m[32m/[m  Author: Alexandre Voltan <voltanalee@gmail.com>
+[32m|[m   Date:   Wed Dec 11 20:36:16 2019 -0300
+[32m|[m   
+[32m|[m       corringod nome do curso de DOcker
+[32m|[m 
+* [33mcommit c7c6acab34ef50445352c1975de76bce3ec7a122[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+[32m|[m Author: Alexandre Voltan <voltanalee@gmail.com>
+[32m|[m Date:   Wed Dec 11 19:57:31 2019 -0300
+[32m|[m 
+[32m|[m     Renomeando curso de integração Contínua
+[32m|[m 
+* [33mcommit ac85ad67a6c75a68bc342c29553b53f1303029af[m
+[32m|[m Author: Alexandre Voltan <voltanalee@gmail.com>
+[32m|[m Date:   Tue Dec 10 20:54:07 2019 -0300
+[32m|[m 
+[32m|[m     Adicionando .gitignore
+[32m|[m 
+* [33mcommit c41e1051e12989c569a95ec94506aacb281b35b8[m
+[32m|[m Author: Alexandre Voltan <voltanalee@gmail.com>
+[32m|[m Date:   Tue Dec 10 20:36:07 2019 -0300
+[32m|[m 
+[32m|[m     Acento adicionado no curso de integração Contínua
+[32m|[m 
+* [33mcommit 598414cfca9fe62a8750e69f90fe58660783b5e2[m
+  Author: Alexandre Voltan <voltanalee@gmail.com>
+  Date:   Tue Dec 10 20:34:54 2019 -0300
+  
+      Criando arquivo index.html com lista de cursos
